@@ -1,0 +1,51 @@
+#projects{
+    background-image: url(../../assets/img/robot.jpg);
+    width: 100%;
+    height: 30%;
+    margin-top: 10px;
+}
+#projects h1{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+.pPanel{
+    width: 30%;
+    height: 80%;
+    background-color: white;
+    margin-left: 13%;
+    display: inline-block;
+    border-radius: 2% 2% 10% 10%;
+}
+#runaway{
+    background-image: url("../../assets/img/Runaway.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70%;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 1px solid black;
+
+}
+#tictac{
+    background-image: url("../../assets/img/TicTacToe.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70%;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 1px solid black;
+
+}
+.pPanel p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.pPanel a{
+    text-decoration: none;
+    color: black;
+}
