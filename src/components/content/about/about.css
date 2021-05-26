@@ -8,6 +8,7 @@
     margin-left: 3%;
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
+    float: left;
 }
 .panel span{
     margin: 0;
