@@ -14,7 +14,7 @@ const about = () =>{
             </div>
             <div className="panel">
             <i class="fas fa-laugh-beam fa-2x"></i><span>Hobbies</span>
-            <p>Hobbies I currently partake in are programming, visiting the gym, Playing video games with my friends, and watching various esports scenes, like League of Legends, Escape from Tarkov and Valorant.
+            <p>Hobbies I currently enjoy partaking in are programming, visiting the gym, Playing video games with my friends, and watching various esports scenes, like League of Legends, Escape from Tarkov and Valorant.
             Besides these hobbies, I also occasionaly play on my VR headset that I have at home!
             </p>
             </div>
