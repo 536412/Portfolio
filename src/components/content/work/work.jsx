@@ -22,7 +22,7 @@ const Work = () => {
                         <div class="content">
                             <h2><a href="https://www.fesleyen.nl/">Fesleyen Bistro & Lunchroom</a></h2>
                             <p>
-                                Overall server & Restaurant employee at Fesleyen Bistro, where i preformed tasks from cleanup, to preparing and serving food
+                                Overall server & Restaurant employee at Fesleyen Bistro, where I preformed tasks from cleanup, to preparing and serving food
       </p>
                         </div>
                     </div>

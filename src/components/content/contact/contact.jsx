@@ -4,7 +4,7 @@ import "./contact.css";
 const Contact = () =>{
     return(
         <div id="contact">
-                <h1>Contact</h1>
+                <h1>Contacts</h1>
                 <p>You can contact me trough the following social media!</p>
                 <a href="https://www.linkedin.com/in/alper-aydinhan-ab123b212/"><i class="fab fa-linkedin fa-7x"></i></a>
                 <a href="https://twitter.com/Lookatableflip"><i class="fab fa-twitter-square fa-7x"></i></a>

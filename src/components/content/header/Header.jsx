@@ -6,7 +6,7 @@ const Header = () => {
         <div id="header">
             <div id="fade">
                 <h1>Alper Aydinhan</h1>
-                <p>Webdeveloper & Science entoushiast</p>
+                <p>Webdeveloper & Science enthousiast</p>
             </div>
         </div>
     );
