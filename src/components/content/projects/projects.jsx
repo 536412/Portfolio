@@ -7,20 +7,20 @@ const Projects = () =>{
             <div id="fade">
                 <h1>My past projects</h1>
                 <div className="pPanel">
-                <a target="_blank" href="https://github.com/536412/runaway"><div id="project1"></div></a>
-                    <p><a target="_blank" href="https://github.com/536412/runaway">Super Runaway with JS</a></p>
+                <a rel="noreferrer" target="_blank" href="https://github.com/536412/runaway"><div id="project1"></div></a>
+                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/runaway">Super Runaway with JS</a></p>
                 </div>
                 <div className="pPanel">
-                <a target="_blank" href="https://github.com/536412/tictactoe"><div id="project2"></div></a>
-                    <p><a target="_blank" href="https://github.com/536412/tictactoe">TicTacToe With JS</a></p>
+                <a rel="noreferrer" target="_blank" href="https://github.com/536412/tictactoe"><div id="project2"></div></a>
+                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/tictactoe">TicTacToe With JS</a></p>
                 </div>
                 <div className="pPanel">
-                <a target="_blank" href="https://github.com/536412/portfolio"><div id="project3"></div></a>
-                    <p><a target="_blank" href="https://github.com/536412/portfolio">Porftolio Source code</a></p>
+                <a rel="noreferrer" target="_blank" href="https://github.com/536412/portfolio"><div id="project3"></div></a>
+                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/portfolio">Porftolio Source code</a></p>
                 </div>
                 <div className="pPanel">
-                <a target="_blank" href="https://github.com/536412/pong"><div id="project4"></div></a>
-                    <p><a target="_blank" href="https://github.com/536412/pong">Pong with React.js</a></p>
+                <a rel="noreferrer" target="_blank" href="https://github.com/536412/pong"><div id="project4"></div></a>
+                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/pong">Pong with React.js</a></p>
                 </div>
             </div>
         </div>
