@@ -12,32 +12,36 @@
 }
 .pPanel{
     width: 30%;
-    height: 80%;
+    height: 40%;
     background-color: white;
     margin-left: 13%;
+    margin-bottom: 3%;
     display: inline-block;
-    border-radius: 2% 2% 10% 10%;
+    border-radius: 5% 5% 10% 10%;
 }
-#runaway{
+#project1{
     background-image: url("../../assets/img/Runaway.png");
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     height: 70%;
     width:80%;
     margin-left: 10%;
     margin-top: 10%;
     border: 1px solid black;
+    border-radius:2% 2% 2% 2%;
 
 }
-#tictac{
+#project2{
     background-image: url("../../assets/img/TicTacToe.png");
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 75%;
     height: 70%;
     width:80%;
     margin-left: 10%;
     margin-top: 10%;
     border: 1px solid black;
+    border-radius:2% 2% 2% 2%;
 
 }
 .pPanel p{
@@ -48,4 +52,29 @@
 .pPanel a{
     text-decoration: none;
     color: black;
+}
+#project3{
+    background-image: url("../../assets/img/portfolio.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 99%;
+    height: 70%;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 1px solid black;
+    border-radius:2% 2% 2% 2%;
+
+}
+#project4{
+    background-image: url("../../assets/img/Pong.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 99%;
+    height: 70%;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    border: 1px solid black;
+    border-radius:2% 2% 2% 2%;
 }
