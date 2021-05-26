@@ -10,7 +10,7 @@ const about = () =>{
             </div>
             <div className="panel" id="panel2">
             <i class="fas fa-microscope fa-2x"></i><span>Interests</span>
-            <p>My current intrests are in the field of science, particularly biological, nuclear and physical science topics, these intrest me quite alot because it shows how things function and work, which peaks my curiosity.<br></br> besides this i have alot of experience in the following programming languages<br></br><br></br>>Javascript<br></br>>HTML + CSS<br></br>>React.js<br></br>>Python<br></br><br></br>I also have limited knowledge about PHP and Database programming</p>
+            <p>My current interests are in the field of science, particularly biological, nuclear and physical science topics, these intrest me quite alot because it shows how things function and work, which peaks my curiosity.<br></br> besides this i have alot of experience in the following programming languages<br></br><br></br>>Javascript<br></br>>HTML + CSS<br></br>>React.js<br></br>>Python<br></br><br></br>I also have limited knowledge about PHP and Database programming</p>
             </div>
             <div className="panel">
             <i class="fas fa-laugh-beam fa-2x"></i><span>Hobbies</span>
