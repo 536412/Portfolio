@@ -10,7 +10,7 @@ const Work = () => {
                         <div class="date">2016</div>
                         <i class="icon"></i>
                         <div class="content">
-                            <h2><a href="https://www.ahvleuterweide.nl/">Albert Heijn Vleuterweide</a></h2>
+                            <h2><a rel="noreferrer" target="_blank" href="https://www.ahvleuterweide.nl/">Albert Heijn Vleuterweide</a></h2>
                             <p>
                                 Part-time worker for Albert Heijn vleuterweide as retail personel
       </p>
@@ -20,7 +20,7 @@ const Work = () => {
                         <div class="date">2018</div>
                         <i class="icon"></i>
                         <div class="content">
-                            <h2><a href="https://www.fesleyen.nl/">Fesleyen Bistro & Lunchroom</a></h2>
+                            <h2><a rel="noreferrer" target="_blank" href="https://www.fesleyen.nl/">Fesleyen Bistro & Lunchroom</a></h2>
                             <p>
                                 Overall server & Restaurant employee at Fesleyen Bistro, where I performed  tasks from cleanup, to preparing and serving food
       </p>
@@ -30,7 +30,7 @@ const Work = () => {
                         <div class="date">2021</div>
                         <i class="icon"></i>
                         <div class="content">
-                        <h2><a href="https://picnic.app/nl/">Picnic Technologies</a></h2>
+                        <h2><a rel="noreferrer" target="_blank" href="https://picnic.app/nl/">Picnic Technologies</a></h2>
                             <p>
                                 Delivery driver for Picnic technologies
       </p>
