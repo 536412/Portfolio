@@ -19,8 +19,8 @@ const Projects = () =>{
                     <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/portfolio">Porftolio Source code</a></p>
                 </div>
                 <div className="pPanel">
-                <a rel="noreferrer" target="_blank" href="https://github.com/536412/pong"><div id="project4"></div></a>
-                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/pong">Pong with React.js</a></p>
+                <a rel="noreferrer" target="_blank" href="https://github.com/536412/tetris"><div id="project4"></div></a>
+                    <p><a rel="noreferrer" target="_blank" href="https://github.com/536412/tetris">tetris with React.js</a></p>
                 </div>
             </div>
         </div>
